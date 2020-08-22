@@ -9,6 +9,7 @@ I have the ability to make quick decisions, use prioritization skills, and to co
 Apart from technical analysis I try my hand at web development. I also enjoy doing competetive programming. I look forward to use my technical skills and apply them in the real world model.
 
 You can give a read to my blog on Decrypting CRYPTOCURRENCY
+https://medium.com/code-for-cause/decrypting-cryptocurrency-b267ccd73591
 
 - 🔭 I’m currently working on an project which analyses stock market and builds a portfolio
 - 📫 How to reach me: ...https://twitter.com/mee_seek
