@@ -2,7 +2,7 @@
 
 <!--
 **get-satyam/get-satyam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 I am an undergrad pursuing my Bachelors in technology. I have a strong affinity for stock market and it's fundamentals.
 I have the ability to make quick decisions, use prioritization skills, and to concentrate on detailed information. I can apply these skills to new transactions and scenarios.
 
