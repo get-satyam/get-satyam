@@ -34,10 +34,7 @@
 
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png" alt="illustrator" width="40" height="40"/>
-<img src="https://seeklogo.com/images/A/adobe-character-animator-logo-4FC626A2C2-seeklogo.com.png" alt="animator" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" alt="adobexd" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1200px-Adobe_Premiere_Pro_CC_icon.svg.png" alt="premierepro" width="40" height="40"/>
 <img src="https://cdn.svgporn.com/logos/react.svg" alt="React" width="40" height="40"/> 
 <img src="https://cdn.svgporn.com/logos/mongodb.svg" alt="Mongo-DB" width="36" height="36"/>  
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg" alt="C++" width="40" height="40"/> 
