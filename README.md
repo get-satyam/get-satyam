@@ -22,14 +22,14 @@
 
 - 💬 Ask me about *Chess, Movies, F1 and Hot Stocks*
 
-- 📫 How to reach me: *Connect me on LinkedIn - [Devang Pandey](https://www.linkedin.com/in/iamsatyammishra/)*
+- 📫 How to reach me: *Connect me on LinkedIn - [Satyam Mishra](https://www.linkedin.com/in/iamsatyammishra/)*
 
 ![Profile views](https://komarev.com/ghpvc/?username=get-satyam)
 
 #### Languages I prefer -
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devang-7&layout=compact" alt="Languages"/> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=get-satyam&layout=compact" alt="Languages"/> 
 </p>
 
 <p align="center">
